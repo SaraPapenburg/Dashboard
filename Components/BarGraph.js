@@ -67,7 +67,7 @@ function BarGraph(props) {
         },
         yaxis: {
             min: 0,
-            max: 3.5,
+            max: 5,
             labels: {
                 maxWidth: 70,
                 align: "left",
